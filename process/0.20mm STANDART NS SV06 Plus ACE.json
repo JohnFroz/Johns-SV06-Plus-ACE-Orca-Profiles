@@ -1,4 +1,5 @@
 {
+    "brim_type": "no_brim",
     "brim_width": "3",
     "from": "User",
     "inherits": "0.20mm Standard @Sovol SV06 Plus ACE",

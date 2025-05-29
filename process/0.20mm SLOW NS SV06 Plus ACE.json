@@ -1,4 +1,6 @@
 {
+    "brim_type": "no_brim",
+    "brim_width": "3",
     "default_acceleration": "5000",
     "from": "User",
     "inherits": "0.20mm Standard @Sovol SV06 Plus ACE",
@@ -17,4 +19,5 @@
     "travel_acceleration": "5000",
     "travel_speed": "300",
     "version": "1.9.0.2"
+    
 }

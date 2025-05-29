@@ -1,4 +1,6 @@
 {
+    "brim_type": "no_brim",
+    "brim_width": "3",
     "default_acceleration": "1000",
     "from": "User",
     "gap_infill_speed": "100",
