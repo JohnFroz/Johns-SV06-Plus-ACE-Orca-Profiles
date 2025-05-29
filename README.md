@@ -1,4 +1,8 @@
-# OrcaSlicer User Presets
+# Johns OrcaSlicer Presets
+
+Orca slicer profiles for Sovols SV06 plus ACE printer.
+Made for private use, shared for friends. (aka dont expect much) 
+If you have any comments/improvements, dont hesitate to make a comment/issue. I might come around to reading them one day.
 
 ## Where to put these files
 
@@ -12,7 +16,7 @@ C:\Users\<YOUR_WINDOWS_USERNAME>\AppData\Roaming\OrcaSlicer\user\default\
 - Overwrite existing files if prompted.
 - Subfolders like `process` and `machine` should be placed inside the `default` folder as shown above.
 
-This will make the custom print and machine profiles available in OrcaSlicer.
+This will make my custom print and machine profiles available in OrcaSlicer.
 
 ---
 
@@ -50,6 +54,3 @@ Some profiles may be marked as `E` (experimental) or have custom settings for te
 - `STANDART` = Standard
 - `INDUSTRIAL` = Standard, but stronger (more walls/infill)
 - `edit` = Custom user-edited profile
-
-For a quick reference, see `legenda.txt` in this folder.
-
