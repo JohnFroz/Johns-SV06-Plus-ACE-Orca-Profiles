@@ -1,0 +1,19 @@
+{
+    "change_filament_gcode": "M600",
+    "extruder_clearance_radius": "80",
+    "from": "User",
+    "inherits": "Sovol SV06 Plus ACE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "manual_filament_change": "1",
+    "name": "Sovol SV06 Plus ACE 0.4 - EDIT",
+    "print_host": "192.168.0.24",
+    "printer_settings_id": "Sovol SV06 Plus ACE 0.4 - EDIT",
+    "retraction_speed": [
+        "20",
+        "40"
+    ],
+    "version": "2.3.0.1",
+    "z_hop": [
+        "0.6"
+    ]
+}

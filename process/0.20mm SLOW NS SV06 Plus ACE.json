@@ -1,0 +1,20 @@
+{
+    "default_acceleration": "5000",
+    "from": "User",
+    "inherits": "0.20mm Standard @Sovol SV06 Plus ACE",
+    "inner_wall_speed": "300",
+    "is_custom_defined": "0",
+    "name": "0.20mm SLOW NS SV06 Plus ACE",
+    "print_settings_id": "0.20mm SLOW NS SV06 Plus ACE",
+    "seam_gap": "10%",
+    "skirt_distance": "3",
+    "sparse_infill_pattern": "gyroid",
+    "staggered_inner_seams": "1",
+    "support_style": "default",
+    "support_type": "tree(auto)",
+    "top_surface_acceleration": "5000",
+    "top_surface_pattern": "monotonic",
+    "travel_acceleration": "5000",
+    "travel_speed": "300",
+    "version": "1.9.0.2"
+}
