@@ -64,10 +64,10 @@
         "80"
     ],
     "fan_max_speed": [
-        "100"
+        "30"
     ],
     "fan_min_speed": [
-        "100"
+        "10"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -94,7 +94,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "1.05"
     ],
     "filament_id": "P6f1c9bf",
     "filament_is_support": [
@@ -161,7 +161,7 @@
         "10"
     ],
     "filament_settings_id": [
-        "3DFOX TPU WHITE @Sovol SV06 Plus ACE 0.4 nozzle"
+        "3DFOX ECONOMY FLEX @Sovol SV06 Plus ACE 0.4 nozzle"
     ],
     "filament_shrink": [
         "100%"
@@ -203,7 +203,7 @@
         "nil"
     ],
     "filament_z_hop": [
-        "nil"
+        "0.3"
     ],
     "filament_z_hop_types": [
         "nil"
@@ -213,10 +213,10 @@
         "0"
     ],
     "hot_plate_temp": [
-        "45"
+        "25"
     ],
     "hot_plate_temp_initial_layer": [
-        "50"
+        "30"
     ],
     "idle_temperature": [
         "0"
@@ -226,12 +226,12 @@
         "-1"
     ],
     "is_custom_defined": "0",
-    "name": "3DFOX TPU WHITE @Sovol SV06 Plus ACE 0.4 nozzle",
+    "name": "3DFOX ECONOMY FLEX @Sovol SV06 Plus ACE 0.4 nozzle",
     "nozzle_temperature": [
-        "220"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "230"
     ],
     "nozzle_temperature_range_high": [
         "300"
