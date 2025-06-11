@@ -3,6 +3,7 @@
     "brim_type": "no_brim",
     "brim_width": "3",
     "default_acceleration": "1000",
+    "enable_overhang_speed": "0",
     "enable_support": "1",
     "from": "User",
     "gap_infill_speed": "40",
@@ -12,7 +13,7 @@
     "initial_layer_speed": "10",
     "inner_wall_acceleration": "1000",
     "inner_wall_speed": "40",
-    "internal_bridge_speed": "100%",
+    "internal_bridge_speed": "200%",
     "internal_solid_infill_speed": "40",
     "is_custom_defined": "0",
     "name": "E 0.20mm TPU SV06 Plus ACE",
@@ -41,5 +42,6 @@
     "travel_speed": "150",
     "tree_support_branch_angle": "30",
     "tree_support_wall_count": "2",
-    "version": "1.9.0.2"
+    "version": "1.9.0.2",
+    "wall_loops": "3"
 }
