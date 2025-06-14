@@ -1,6 +1,6 @@
 # Johns OrcaSlicer Presets
 
-Orca slicer profiles for Sovols SV06 plus ACE printer.
+Orca slicer profiles for Sovols SV06 plus ACE printer. (as well as a custom printer profile and some bonus filaments)
 Made for private use, shared for friends. (aka dont expect much) 
 If you have any comments/improvements, dont hesitate to make a comment/issue. I might come around to reading them one day.
 
@@ -15,8 +15,6 @@ C:\Users\<YOUR_WINDOWS_USERNAME>\AppData\Roaming\OrcaSlicer\user\default\
 - Replace `<YOUR_WINDOWS_USERNAME>` with your actual Windows username.
 - Overwrite existing files if prompted.
 - Subfolders like `process` and `machine` should be placed inside the `default` folder as shown above.
-
-This will make my custom print and machine profiles available in OrcaSlicer.
 
 ---
 
@@ -33,7 +31,7 @@ Profiles use the following naming structure:
 ```
 
 - **Layer height**: e.g. `0.10mm`, `0.20mm`
-- **Speed**: `VERY SLOW`, `SLOW`, `STANDART`, `FAST`, `VERY FAST`, `INDUSTRIAL`
+- **Speed/Purpose**: `VERY SLOW`, `SLOW`, `STANDART`, `FAST`, `VERY FAST`/ `INDUSTRIAL`,`TPU` etc.
 - **Support**: `NS` = No Support, otherwise support is enabled
 - **Printer**: e.g. `SV06 Plus ACE`
 
@@ -51,6 +49,5 @@ Some profiles may be marked as `E` (experimental) or have custom settings for te
 
 - `NS` = No Support
 - `E` = Experimental
-- `STANDART` = Standard
 - `INDUSTRIAL` = Standard, but stronger (more walls/infill)
-- `edit` = Custom user-edited profile
+- `edit` = Edited version of a default/premade/stolen profile
