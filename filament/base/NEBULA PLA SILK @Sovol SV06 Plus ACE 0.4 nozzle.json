@@ -18,13 +18,13 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
-        "0"
+        "70"
     ],
     "chamber_temperature": [
         "0"
     ],
     "close_fan_the_first_x_layers": [
-        "3"
+        "1"
     ],
     "compatible_printers": [],
     "compatible_printers_condition": "",
@@ -34,10 +34,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "60"
+        "35"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "35"
     ],
     "default_filament_colour": [
         ""
@@ -64,10 +64,10 @@
         "80"
     ],
     "fan_max_speed": [
-        "95"
+        "80"
     ],
     "fan_min_speed": [
-        "60"
+        "50"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -79,10 +79,10 @@
         "4"
     ],
     "filament_cost": [
-        "30"
+        "20"
     ],
     "filament_density": [
-        "1.23"
+        "1.22"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -96,7 +96,7 @@
     "filament_flow_ratio": [
         "0.98"
     ],
-    "filament_id": "Pa6f7a98",
+    "filament_id": "P0a89f76",
     "filament_is_support": [
         "0"
     ],
@@ -110,7 +110,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "15"
+        "21"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -161,7 +161,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "NEBULA PETG PREMIUM PET-G @Sovol SV06 Plus ACE 0.4 nozzle"
+        "NEBULA PLA SILK @Sovol SV06 Plus ACE 0.4 nozzle"
     ],
     "filament_shrink": [
         "100%"
@@ -185,7 +185,7 @@
         "0"
     ],
     "filament_type": [
-        "PETG"
+        "PLA"
     ],
     "filament_unloading_speed": [
         "90"
@@ -213,10 +213,10 @@
         "3"
     ],
     "hot_plate_temp": [
-        "85"
+        "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "85"
+        "60"
     ],
     "idle_temperature": [
         "0"
@@ -226,12 +226,12 @@
         "-1"
     ],
     "is_custom_defined": "0",
-    "name": "NEBULA PETG PREMIUM PET-G @Sovol SV06 Plus ACE 0.4 nozzle",
+    "name": "NEBULA PLA SILK @Sovol SV06 Plus ACE 0.4 nozzle",
     "nozzle_temperature": [
-        "230"
+        "210"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "230"
     ],
     "nozzle_temperature_range_high": [
         "300"
@@ -243,7 +243,7 @@
         "100"
     ],
     "overhang_fan_threshold": [
-        "95%"
+        "50%"
     ],
     "pellet_flow_coefficient": [
         "0.4157"
@@ -261,22 +261,22 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "5"
+        "6"
     ],
     "slow_down_min_speed": [
-        "10"
+        "20"
     ],
     "supertack_plate_temp": [
-        "70"
+        "45"
     ],
     "supertack_plate_temp_initial_layer": [
-        "70"
+        "45"
     ],
     "support_material_interface_fan_speed": [
         "-1"
     ],
     "temperature_vitrification": [
-        "80"
+        "51"
     ],
     "textured_cool_plate_temp": [
         "40"
@@ -285,10 +285,10 @@
         "40"
     ],
     "textured_plate_temp": [
-        "80"
+        "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "80"
+        "55"
     ],
     "version": "2.3.0.3"
 }
