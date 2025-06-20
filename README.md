@@ -4,6 +4,8 @@ Orca slicer profiles for Sovols SV06 plus ACE printer. (as well as a custom prin
 Made for private use, shared for friends. (aka dont expect much) 
 If you have any comments/improvements, dont hesitate to make a comment/issue. I might come around to reading them one day.
 
+#YOU CAN FIND THE (somewhat) STABLE RELEASES IN THE RELEASES SECTION
+
 ## Where to put these files
 
 Copy all files and folders from this package into:
