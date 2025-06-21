@@ -161,7 +161,7 @@
         "10"
     ],
     "filament_settings_id": [
-        "3DFOX ECONOMY FLEX @Sovol SV06 Plus ACE 0.4 nozzle"
+        "3DFOX ECONOMY FLEX"
     ],
     "filament_shrink": [
         "100%"
@@ -213,10 +213,10 @@
         "0"
     ],
     "hot_plate_temp": [
-        "25"
+        "40"
     ],
     "hot_plate_temp_initial_layer": [
-        "30"
+        "40"
     ],
     "idle_temperature": [
         "0"
