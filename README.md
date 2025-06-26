@@ -4,7 +4,7 @@ Orca slicer profiles for Sovols SV06 plus ACE printer. (as well as a custom prin
 Made for private use, shared for friends. (aka dont expect much) 
 If you have any comments/improvements, dont hesitate to make a comment/issue. I might come around to reading them one day.
 
-# YOU CAN FIND THE (somewhat) STABLE RELEASES IN THE RELEASES SECTION
+## YOU CAN FIND THE (somewhat) STABLE RELEASES IN THE RELEASES SECTION
 
 ## Where to put these files
 
@@ -15,7 +15,7 @@ C:\Users\<YOUR_WINDOWS_USERNAME>\AppData\Roaming\OrcaSlicer\user\default\
 ```
 
 - Replace `<YOUR_WINDOWS_USERNAME>` with your actual Windows username.
-- Overwrite existing files if prompted.
+- Overwrite and remove existing files if prompted. (better to remove all of my profiles, as the names might change a bit, creating outdated duplicates)
 - Subfolders like `process` and `machine` should be placed inside the `default` folder as shown above.
 
 ---
