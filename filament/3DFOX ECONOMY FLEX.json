@@ -94,7 +94,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "1.05"
+        "1.2"
     ],
     "filament_id": "P6f1c9bf",
     "filament_is_support": [
