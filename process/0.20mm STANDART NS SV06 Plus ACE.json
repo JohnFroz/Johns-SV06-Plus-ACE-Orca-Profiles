@@ -15,5 +15,7 @@
     "support_style": "default",
     "support_type": "tree(auto)",
     "top_surface_pattern": "monotonic",
-    "version": "1.9.0.2"
+    "version": "1.9.0.2",
+    "support_bottom_interface_spacing": "0.5",
+    "support_interface_spacing": "0.5"
 }

@@ -64,10 +64,10 @@
         "80"
     ],
     "fan_max_speed": [
-        "80"
+        "95"
     ],
     "fan_min_speed": [
-        "50"
+        "75"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -161,7 +161,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "NEBULA PLA SILK @Sovol SV06 Plus ACE 0.4 nozzle"
+        "NEBULA PLA SILK"
     ],
     "filament_shrink": [
         "100%"
